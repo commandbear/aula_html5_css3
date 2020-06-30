@@ -1,0 +1,28 @@
+body{
+    background: rgb(173, 189, 204); color: green;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+footer{
+    color: rgb(13, 204, 23);
+}
+
+.img_parc{
+    margin-left: 20px;
+}
+
+.img_contatos{
+    margin-right: 10px;
+    width: 30px;
+}
+
+.img_padrao{
+    margin: 15px;
+    width: 450px;
+}
+
+h2{
+    color: white;
+    margin-top: 100px;
+}
